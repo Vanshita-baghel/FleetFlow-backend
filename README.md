@@ -51,8 +51,6 @@ Hibernate
 
 MySQL
 
-Scheduler (@Scheduled)
-
 RESTful APIs
 
 🎯 Use Case
